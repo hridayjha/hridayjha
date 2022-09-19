@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hriday Narayan Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A full-stack web developer who is passionate about the world of the web. An individual with a problem-solving mindset who likes building and crafting user-centric products.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridayjha&label=Profile%20views&color=0e75b6&style=flat" alt="hridayjha" /> </p>
 
