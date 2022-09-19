@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hridayjha&show_icons=true&locale=en" alt="hridayjha" width="400" height="300"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridayjha&" alt="hridayjha" width="600" height="500"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridayjha&" alt="hridayjha" /></p>
