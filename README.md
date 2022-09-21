@@ -1,4 +1,4 @@
-![](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg height="200")
+![](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg )
 <h1 align="center">Hi 👋, I'm Hriday Narayan Jha</h1>
 <h3 align="center">A full-stack web developer who is passionate about the world of the web. An individual with a problem-solving mindset who likes building and crafting user-centric products.</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47h3bybzcrdqbisdcti6q9lgd5dug0kurlwdw335x8&rid=200.webp&ct=g">
