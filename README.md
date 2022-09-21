@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridayjha&label=Profile%20views&color=0e75b6&style=flat" alt="hridayjha" /> </p>
 
-- 🌱 I’m currently learning **New Town , Kolkata**
+- 🌱 I’m currently learning **JAVA, Springboot, aws, SQL and Hibernate**
 
 - 👨‍💻 All of my projects are available at [https://hridayjha.github.io](https://hridayjha.github.io)
 
