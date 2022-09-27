@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetsharma1997 &label=Profile%20views&color=0e75b6&style=flat" alt="sujeetsharma1997" /> </p>
+
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+
 ![](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg )
 <h1 align="center">Hi 👋, I'm Hriday Narayan Jha</h1>
 <h3 align="center">A full-stack web developer who is passionate about the world of the web. An individual with a problem-solving mindset who likes building and crafting user-centric products.</h3>
@@ -5,17 +9,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridayjha&label=Profile%20views&color=0e75b6&style=flat" alt="hridayjha" /> </p>
 
-- 🌱 I’m currently learning **JAVA, Springboot, aws, SQL and Hibernate**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://hridayjha.github.io](https://hridayjha.github.io)
 
-- 💬 Ask me about **JAVA , JavaScript , AWS , Backend**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **hridaynarayanjha24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing](https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing)
+- 📄 [My Resume] [https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing](https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing)
+
+-🕸️ [My Portfolio] [https://hridayjha.github.io/]
+(https://hridayjha.github.io/)
 
 - ⚡ Fun fact **A single person who is alive with honesty!**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
