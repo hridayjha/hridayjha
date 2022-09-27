@@ -1,16 +1,15 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetsharma1997 &label=Profile%20views&color=0e75b6&style=flat" alt="hridayJha" /> </p> -->
-
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Hriday Narayan Jha</h1>
 <h3 align="center">A full-stack web developer who is passionate about the world of the web. An individual with a problem-solving mindset who likes building and crafting user-centric products.</h3>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47h3bybzcrdqbisdcti6q9lgd5dug0kurlwdw335x8&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridayjha&label=Profile%20views&color=0e75b6&style=flat" alt="hridayjha" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://hridayjha.github.io](https://hridayjha.github.io)
 
 - 💬 Ask me about **JAVA**
 
@@ -54,4 +53,4 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hridayjha&show_icons=true&locale=en" alt="hridayjha" width="400" height="300"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridayjha&" alt="hridayjha" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=hridayjha&theme=xcode" height ="307"/>
