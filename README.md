@@ -1,8 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetsharma1997 &label=Profile%20views&color=0e75b6&style=flat" alt="sujeetsharma1997" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetsharma1997 &label=Profile%20views&color=0e75b6&style=flat" alt="hridayJha" /> </p> -->
 
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-![](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg )
 <h1 align="center">Hi 👋, I'm Hriday Narayan Jha</h1>
 <h3 align="center">A full-stack web developer who is passionate about the world of the web. An individual with a problem-solving mindset who likes building and crafting user-centric products.</h3>
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47h3bybzcrdqbisdcti6q9lgd5dug0kurlwdw335x8&rid=200.webp&ct=g">
@@ -17,10 +16,9 @@
 
 - 📫 How to reach me **hridaynarayanjha24@gmail.com**
 
-- 📄 [My Resume] [https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing](https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing)
+- 👨‍💻 This is [My Portfolio](https://hridayjha.github.io/)
 
--🕸️ [My Portfolio] [https://hridayjha.github.io/]
-(https://hridayjha.github.io/)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing)
 
 - ⚡ Fun fact **A single person who is alive with honesty!**
 
@@ -32,6 +30,8 @@
 <a href="https://linkedin.com/in/hriday-narayan-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hriday-narayan-jha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lhridaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lhridaye" height="30" width="40" /></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">Tech Stack</h2>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -47,7 +47,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </a> </p>
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hridayjha&show_icons=true&locale=en&layout=compact" alt="hridayjha" width="400" height="300"/></p>
