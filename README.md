@@ -55,4 +55,9 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=hridayjha&theme=xcode" height ="307"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;color=ffffff&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;color=abb3b0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 80%;">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
