@@ -25,8 +25,8 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/@jhaalakh24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jhaalakh24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hriday-narayan-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hriday-narayan-jha" height="30" width="40" /></a>
+<a href="https://twitter.com/Jhalkh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jhaalakh24" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hriday-narayan-jha-a323431b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hriday-narayan-jha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lhridaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lhridaye" height="30" width="40" /></a>
 </p>
 
@@ -54,3 +54,5 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hridayjha&show_icons=true&locale=en" alt="hridayjha" width="400" height="300"/></p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=hridayjha&theme=xcode" height ="307"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&amp;color=ffffff&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
