@@ -17,7 +17,7 @@
 
 - 👨‍💻 This is [My Portfolio](https://hridayjha.github.io/)
 
-- 📄 This is [My Resume](https://drive.google.com/file/d/1DZZZ4iHe3KWIPzyROm1OILfFm0Z5fBCt/view?usp=sharing)
+- 📄 This is [My Resume](https://drive.google.com/file/d/1SXI4yD-koJjTDCgbJWjYfql8dzIAe_Bd/view?usp=sharing)
 
 - ⚡ Fun fact **A single person who is alive with honesty!**
 
